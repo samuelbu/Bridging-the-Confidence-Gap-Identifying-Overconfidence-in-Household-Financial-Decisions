@@ -1,3 +1,5 @@
+Project for Introduction to Data analytics course of the Master's in Business Analytics at Questrom.
+
 **Professor:** Mohammad Soltanieh
 
 **Team Members:** Angela liou, Parthvi Joshi, Khoi Thai, Yuyang (Erin) Zhai & Samuel Buelvas
